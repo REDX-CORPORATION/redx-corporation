@@ -24,7 +24,7 @@ We value **precision, reliability, and design** — built for both competitive a
 ## Skills & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,py,html,css,js,react,dotnet,qt,vscode,visualstudio,discord,github,git,linux&perline=8" height="36"/>
+  <img src="https://skillicons.dev/icons?i=cs,cpp,py,html,css,js,react,dotnet,qt,vscode,visualstudio,discord,github,git,linux&perline=8" height="100"/>
 </p>
 
 ## Insights  
