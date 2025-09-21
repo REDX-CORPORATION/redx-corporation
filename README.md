@@ -37,6 +37,11 @@ We value **precision, reliability, and design** — built for both competitive a
 <p align="center">
   <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=REDX-CORPORATION&theme=darkhub&row=1&column=6&margin-w=10&margin-h=10" height="150"/>
 </p>
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## Contribution Calendar  
 
