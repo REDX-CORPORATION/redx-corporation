@@ -27,18 +27,26 @@ We value **precision, reliability, and design** — built for both competitive a
   <img src="https://skillicons.dev/icons?i=cs,cpp,py,html,css,js,react,dotnet,qt,vscode,visualstudio,discord,github,git,linux&perline=8" height="100"/>
 </p>
 
-## Insights  
+## GitHub Insights  
 
 <p align="center">
-  <img alt="RED-X GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=REDX-CORPORATION&show_icons=true&theme=radical&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true" height="180"/>
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=REDX-CORPORATION&layout=compact&theme=radical&title_color=FF0000&text_color=FFFFFF&bg_color=000000" height="180"/>
+  <!-- Total Repos Badge -->
+  <img src="https://img.shields.io/badge/Total%20Repos-23-FF0000?style=for-the-badge&logo=github" alt="Total Repos" />
+
+  <!-- Languages Badge (Dynamic) -->
+  <br/>
+  <img src="https://img.shields.io/badge/C%23-10-FF0000?style=flat-square" alt="C#" />
+  <img src="https://img.shields.io/badge/HTML-5-FF0000?style=flat-square" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-2-FF0000?style=flat-square" alt="CSS" />
+  <img src="https://img.shields.io/badge/C++-1-FF0000?style=flat-square" alt="C++" />
+  <img src="https://img.shields.io/badge/Unknown-4-FF0000?style=flat-square" alt="Unknown" />
 </p>
 
 <p align="center">
   <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=REDX-CORPORATION&theme=darkhub&row=1&column=6&margin-w=10&margin-h=10" height="150"/>
 </p>
-<!-- Snake Game Repo View -->
 
+<!-- Snake Game Repo View -->
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
@@ -57,12 +65,8 @@ We value **precision, reliability, and design** — built for both competitive a
   <a href="https://redx-corporation.github.io/red-x-corporation/"><img src="https://img.shields.io/badge/Website-Visit-000000?style=for-the-badge&logo=firefox&logoColor=FF0000" alt="Website" /></a>
 </p>
 
----
-
 <div align="center">
-
 **RED-X CORPORATION** — Precision Engineering • Professional Tools • Zero Fluff  
-
 </div>
 
 <!-- ════════════════════════════════════════════════════════════════ -->
