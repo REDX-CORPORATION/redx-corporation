@@ -1,14 +1,16 @@
 <!-- RED-X CORPORATION — Professional README -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2400&pause=800&color=FF0000&center=true&vCenter=true&width=900&lines=RED-X+CORPORATION;ONCE+WE+PLAYED+THE+GAME,+NOW+WE+PLAY+WITH+THE+GAME!;Innovation+·+Precision+·+Excellence" alt="RED-X Typing" />
-  <img src="https://github.com/REDX-CORPORATIOn.png" alt="RED-X Logo" width="60" style="float:right; margin-left:10px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2400&pause=800&color=FF0000&center=true&vCenter=true&width=900&lines=RED-X+CORPORATION;ONCE+WE+PLAYED+THE+GAME;NOW+WE+PLAY+WITH+THE+GAME!" alt="RED-X Typing" />
+  <img src="https://github.com/REDX-CORPORATIOn.png" alt="RED-X Logo" width="100" style="float:right; margin-left:10px;">
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/RED--X--CORPORATION-000000?style=for-the-badge&logo=github&logoColor=FF0000" alt="RED-X Badge" />
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=REDX-CORPORATIOn&label=Profile%20views&color=FF0000&style=flat" alt="Profile views" />
+</p>
 ## About
 RED-X CORPORATION is a focused engineering team delivering professional software for gaming and automation: reverse engineering, memory engineering, high-performance tooling, and polished UIs. We value precision, reliability, and design — built for competitive and production environments.
 
