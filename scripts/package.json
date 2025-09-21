@@ -1,8 +1,0 @@
-{
-  "name": "redx-snake-generator",
-  "version": "1.0.0",
-  "private": true,
-  "dependencies": {
-    "github-contribution-grid-snake": "^1.0.0"
-  }
-}
