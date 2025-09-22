@@ -1,4 +1,4 @@
-<img width="36" height="114" alt="image" src="https://github.com/user-attachments/assets/1b3cfb00-f54a-4e20-9452-714eaaf3f660" /><!-- ═══════════ RED-X CORPORATION — Professional README ═══════════ -->
+<!-- ═══════════ RED-X CORPORATION — Professional README ═══════════ -->
 
 <!-- Animated Title -->
 <p align="center">
