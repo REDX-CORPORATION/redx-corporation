@@ -30,8 +30,8 @@ We value **precision, reliability, and design** — built for both competitive a
 ## Insights  
 
 <p align="center">
-  <img alt="RED-X GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=REDX-CORPORATION&show_icons=true&theme=radical&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true" height="180"/>
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=REDX-CORPORATION&layout=compact&theme=radical&title_color=FF0000&text_color=FFFFFF&bg_color=000000" height="180"/>
+   <img src="https://githubreadme-1tz0ua64f-mohtasim-jitus-projects.vercel.app/api/languages.svg" alt="Languages Stats" />
+   <img src="https://githubreadme-1tz0ua64f-mohtasim-jitus-projects.vercel.app/api/repos.svg" alt="Realtime Repo Stats" />
 </p>
 
 <p align="center">
@@ -40,17 +40,8 @@ We value **precision, reliability, and design** — built for both competitive a
 <!-- Snake Game Repo View -->
 
 
-<p align="center">
-  <!-- Replace with your deployed API URL -->
-  <img src="https://githubreadme-1tz0ua64f-mohtasim-jitus-projects.vercel.app/api/repos.svg" alt="Realtime Repo Stats" />
-</p>
 
-## Languages  
 
-<p align="center">
-  <!-- Replace with your deployed API URL -->
-  <img src="https://githubreadme-1tz0ua64f-mohtasim-jitus-projects.vercel.app/api/languages.svg" alt="Languages Stats" />
-</p>
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
