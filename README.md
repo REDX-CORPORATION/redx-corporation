@@ -30,8 +30,8 @@ We value **precision, reliability, and design** — built for both competitive a
 ## Insights  
 
 <p align="center">
-   <img src="https://githubreadme-igl2ziwo1-mohtasim-jitus-projects.vercel.app/api/languages.svg" alt="Languages Stats" />
-   <img src="https://githubreadme-igl2ziwo1-mohtasim-jitus-projects.vercel.app/api/repos.svg" alt="Realtime Repo Stats" />
+   <img src="https://github-readme-redx.vercel.app/api/languages.svg" alt="Languages Stats" />
+   <img src="https://github-readme-redx.vercel.app/api/repos.svg" alt="Realtime Repo Stats" />
 </p>
 
 <p align="center">
