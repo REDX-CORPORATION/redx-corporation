@@ -22,8 +22,8 @@
 
 **Leadership & Team**  
 - Mohtasim Billah Jitu — Founder & CEO  
-- Ashik — Chairman  
 - Jubayer — Developer & Admin  
+- Ashik — Social Media & Client Handler  
 - Abid — Marketer & Client Handler  
 
 
