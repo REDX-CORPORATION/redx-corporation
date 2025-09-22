@@ -18,14 +18,14 @@
 **Focus Areas**  
 - Reverse & Memory Engineering  
 - Memory manipulation
-- Modern UI/UX Development  
+- Game Cheats💀
 
 **Leadership & Team**  
 - Mohtasim Billah Jitu — Founder & CEO  
 - Ashik — Chairman  
 - Jubayer — Developer & Admin  
 - Abid — Marketer & Client Handler  
-- Sami & Sazid — Testers  
+
 
 We build with **precision, reliability, and design** — turning complexity into innovation.  
  
