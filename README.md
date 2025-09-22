@@ -13,13 +13,23 @@
 
 ## About Us  
 
-**RED-X CORPORATION** is a focused engineering team delivering professional software for gaming and automation.  
-We specialize in:  
-- Reverse Engineering & Memory Engineering  
-- High-Performance Tooling & Automation  
-- Modern User Interface Development  
+**RED-X CORPORATION** is a next-generation engineering team creating professional tools for gaming, automation, and modern software.  
 
-We value **precision, reliability, and design** — built for both competitive and production environments.  
+**Focus Areas**  
+- Reverse & Memory Engineering  
+- Memory manipulation
+- Modern UI/UX Development  
+
+**Leadership & Team**  
+- Mohtasim Billah Jitu — Founder & CEO  
+- Ashik — Chairman  
+- Jubayer — Developer & Admin  
+- Abid — Marketer & Client Handler  
+- Sami & Sazid — Testers  
+
+We build with **precision, reliability, and design** — turning complexity into innovation.  
+ 
+
 
 ## Skills & Tools  
 
@@ -33,10 +43,10 @@ We value **precision, reliability, and design** — built for both competitive a
    <img src="https://github-readme-redx.vercel.app/api/languages.svg" alt="Languages Stats" />
    <img src="https://github-readme-redx.vercel.app/api/repos.svg" alt="Realtime Repo Stats" />
 </p>
-
+<!--
 <p align="center">
   <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=REDX-CORPORATION&theme=darkhub&row=1&column=6&margin-w=10&margin-h=10" height="150"/>
-</p>
+</p>-->
 <!-- Snake Game Repo View -->
 
 
