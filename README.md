@@ -1,4 +1,4 @@
-<!-- ═══════════ RED-X CORPORATION — Professional README ═══════════ -->
+<img width="36" height="114" alt="image" src="https://github.com/user-attachments/assets/1b3cfb00-f54a-4e20-9452-714eaaf3f660" /><!-- ═══════════ RED-X CORPORATION — Professional README ═══════════ -->
 
 <!-- Animated Title -->
 <p align="center">
@@ -42,14 +42,14 @@ We value **precision, reliability, and design** — built for both competitive a
 
 <p align="center">
   <!-- Replace with your deployed API URL -->
-  <img src="https://githubreadme-p23o302kk-mohtasim-jitus-projects.vercel.app/api/repos.svg" alt="Realtime Repo Stats" />
+  <img src="https://githubreadme-6m6bvz2vm-mohtasim-jitus-projects.vercel.app/api/repos.svg" alt="Realtime Repo Stats" />
 </p>
 
 ## Languages  
 
 <p align="center">
   <!-- Replace with your deployed API URL -->
-  <img src="https://githubreadme-p23o302kk-mohtasim-jitus-projects.vercel.app/api/languages.svg" alt="Languages Stats" />
+  <img src="https://githubreadme-4scyb0fgb-mohtasim-jitus-projects.vercel.app/api/languages.svg" alt="Languages Stats" />
 </p>
 
 <div align="center">
