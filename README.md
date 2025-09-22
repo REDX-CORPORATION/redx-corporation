@@ -42,14 +42,14 @@ We value **precision, reliability, and design** — built for both competitive a
 
 <p align="center">
   <!-- Replace with your deployed API URL -->
-  <img src="https://githubreadme-8pzpth1fa-mohtasim-jitus-projects.vercel.app/api/repos.svg" alt="Realtime Repo Stats" />
+  <img src="https://githubreadme-p23o302kk-mohtasim-jitus-projects.vercel.app/api/repos.svg" alt="Realtime Repo Stats" />
 </p>
 
 ## Languages  
 
 <p align="center">
   <!-- Replace with your deployed API URL -->
-  <img src="https://githubreadme-8pzpth1fa-mohtasim-jitus-projects.vercel.app/api/languages.svg" alt="Languages Stats" />
+  <img src="https://githubreadme-p23o302kk-mohtasim-jitus-projects.vercel.app/api/languages.svg" alt="Languages Stats" />
 </p>
 
 <div align="center">
