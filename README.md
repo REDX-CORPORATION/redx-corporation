@@ -14,6 +14,7 @@
 ## About Us  
 
 **RED-X CORPORATION** is a next-generation engineering team creating professional tools for gaming, automation, and modern software.  
+This GITHUB profile is fully managed by Mohtasim Billah Jitu.
 
 **Focus Areas**  
 - Reverse & Memory Engineering  
@@ -52,10 +53,10 @@ We build with **precision, reliability, and design** — turning complexity into
 
 
 
-
+<!-- Badges 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+</div>-->
 
 ## Contribution Calendar  
 
