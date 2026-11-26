@@ -61,7 +61,7 @@ We build with **precision, reliability, and design** — turning complexity into
 ## Contribution Calendar  
 
 <p align="center">
-  <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=REDX-CORPORATION&theme=redical&hide_border=true&area=true&bg_color=000000&line=FF0000&point=FFFFFF&color=FF0000" />
+  <img alt="Contribution graph" src="https://github-stats-mauve-mu.vercel.app/api/contributions.svg" />
 </p>
 
 ## Contact & Links  
