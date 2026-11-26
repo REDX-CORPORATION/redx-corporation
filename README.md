@@ -41,8 +41,8 @@ We build with **precision, reliability, and design** — turning complexity into
 ## Insights  
 
 <p align="center">
-   <img src="https://github-readme-redx.vercel.app/api/languages.svg" alt="Languages Stats" />
-   <img src="https://github-readme-redx.vercel.app/api/repos.svg" alt="Realtime Repo Stats" />
+   <img src="https://github-stats-mauve-mu.vercel.app/api/languages.svg" alt="Languages Stats" />
+   <img src="https://github-stats-mauve-mu.vercel.app/api/repos.svg" alt="Realtime Repo Stats" />
 </p>
 <!--
 <p align="center">
