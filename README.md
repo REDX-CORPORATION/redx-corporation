@@ -43,6 +43,14 @@ We build with **precision, reliability, and design** — turning complexity into
   *Stats below reflect the activity of mohtasimjitu & RED-X CORPORATION repositories on GitHub.*  
 </p>
 <p align="center">
+  <a href="https://github.com/REDX-CORPORATION">
+    <img src="https://img.shields.io/badge/GitHub-RED--X--CORP-cf1204?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/mohtasimjitu">
+    <img src="https://img.shields.io/badge/GitHub-MOHTASIMJITU-1A1A1A?style=for-the-badge&logo=github&logoColor=FF0000" />
+  </a>
+</p>
+<p align="center">
    <img src="https://github-stats-mauve-mu.vercel.app/api/languages.svg" alt="Languages Stats" />
    <img src="https://github-stats-mauve-mu.vercel.app/api/repos.svg" alt="Realtime Repo Stats" />
 </p>
