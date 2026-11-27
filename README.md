@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/REDX-CORPORATION/redx-corporation/blob/eaa845cd688e62c159d3b9b9eb5c7709fa85478f/banner.gif" alt="Anime GIF" width="600"/>
+  <img src="https://github.com/REDX-CORPORATION/redx-corporation/blob/68850ce12c77f5fa70499c6299f29a646bead150/gif%20(1).gif" alt="Anime GIF" width="600"/>
 </p>
 
 <!-- Animated Title -->
