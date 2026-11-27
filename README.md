@@ -39,7 +39,9 @@ We build with **precision, reliability, and design** — turning complexity into
 </p>
 
 ## Insights  
-
+<p align="center">
+  *Stats below reflect the activity of mohtasimjitu & RED-X CORPORATION repositories on GitHub.*  
+</p>
 <p align="center">
    <img src="https://github-stats-mauve-mu.vercel.app/api/languages.svg" alt="Languages Stats" />
    <img src="https://github-stats-mauve-mu.vercel.app/api/repos.svg" alt="Realtime Repo Stats" />
