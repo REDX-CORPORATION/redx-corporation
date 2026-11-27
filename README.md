@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://github.com/REDX-CORPORATION/redx-corporation/blob/eaa845cd688e62c159d3b9b9eb5c7709fa85478f/banner.gif"/>
-</p><!-- ═══════════ RED-X CORPORATION — Professional README ═══════════ -->
+  <img src="https://github.com/REDX-CORPORATION/redx-corporation/blob/eaa845cd688e62c159d3b9b9eb5c7709fa85478f/banner.gif" alt="Anime GIF" width="600"/>
+</p>
 
 <!-- Animated Title -->
 <p align="center">
